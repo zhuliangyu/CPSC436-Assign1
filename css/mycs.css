@@ -1,0 +1,52 @@
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+    position: sticky;
+    top: 0;
+}
+
+img{
+    opacity: 0.7;
+
+}
+
+nav li {
+    float: left;
+}
+
+nav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav li a:hover {
+    background-color: green;
+}
+
+.background {
+
+}
+
+.msg-box {
+    position: relative;
+    width: 500px;
+    left: 150px;
+    top: 100px;
+    background-color: #c0c0c0;
+    padding: 0;
+    color: #335500;
+}
+
+.msg-wall {
+    margin-top: 150px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 500px;
+
+}
